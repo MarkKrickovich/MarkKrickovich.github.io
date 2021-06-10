@@ -1,5 +1,5 @@
 title: Mark Krickovich
-logo: MarkKrickovich.github.io/assets/img/Mark.jpg 
+logo: "/assets/img/Mark.jpg?raw=true" 
 description:
 #Finance Quant Turned Data Scientist
 
