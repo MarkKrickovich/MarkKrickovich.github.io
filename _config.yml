@@ -7,7 +7,7 @@ description:
 #Consulting services with Quantum
 #Analytica.io, a Boston-based firm.
 
-(https://www.google.com "Google's Homepage")
+[My LinkedIn Profile]: https://www.linkedin.com/in/markkrickovich/
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
