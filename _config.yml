@@ -1,13 +1,18 @@
 title: <p align="center"> Mark Krickovich </p>
+
 logo: "/assets/img/MK.png?raw=true" 
 
 description:
-   Finance Quant Turned Data Scientist 
+   <p align="center">
+   Finance Quant Turned Data Scientist
+   </p>
    
-   
+   <p align="justify">   
    I currently provide Data Science 
    Consulting services with Quantum
    Analytica.io, a Boston-based firm.
+   <br><br>
+   </p>
 
 [My LinkedIn Profile]: https://www.linkedin.com/in/markkrickovich/
 show_downloads: true
