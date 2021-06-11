@@ -1,4 +1,4 @@
-# Data Science & Machine Learning Portfolio
+# Portfolio: Data Science & Machine Learning
 ---
 ## Market Basket Association Prediction
 ###  Apriori Algorithm using R and WEKA
