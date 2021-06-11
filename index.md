@@ -6,4 +6,4 @@ I completed a machine-learning project that used association rule mining to find
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/markkrickovich/MarketBasketAssociation)
 
-<center><img src="img/R Apriori Graph Plot.PNG"/></center>
+<center><img src="assets/img/R Apriori Graph Plot.PNG"/></center>
