@@ -9,7 +9,7 @@ Machine-learning project using association rule mining to find associative patte
 
 **Business Impact:**  We can collocate higher priced veggies (a stand of Organics) near milk section, or implement incentive purchase offer programs by the grocer. 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/markkrickovich/AssociationRuleMining)  "Work in Process"
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/markkrickovich/AssociationRuleMining)  "A Work in Process"
 
 **Apriori Algorithm:** Uses frequent itemsets to generate association rules. It is based on the concept that a subset of a frequent itemset must also be a frequent itemset. 
 
