@@ -17,7 +17,6 @@ Machine-learning project using association rule mining to find associative patte
 
 <center><img src="assets/img/R Apriori Graph Plot.PNG"/></center>
 
-
 ---
-## Recommender System
+## Recommender System: Film Predictions
 ###  Content & User Based Filtering using Python and surpriselib
