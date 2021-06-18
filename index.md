@@ -19,4 +19,4 @@ Machine-learning project using association rule mining to find associative patte
 
 ---
 ## Recommender System: Film Predictions
-###  Content & User Based Filtering using Python and surpriselib
+###  Content-Based & Collaborative-Based Filtering using Python and surpriselib
