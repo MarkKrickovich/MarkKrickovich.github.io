@@ -21,3 +21,5 @@ Machine-learning project using association rule mining to find associative patte
 ###  Content-Based & Collaborative-Based Filtering using Python and surpriselib
 
 Recommender Systems are used to predict items that a user will select among many choices. Recommender systems are used in a variety of areas, with commonly recognised examples taking the form of playlist generators for video and music services, product recommenders for online stores, or content recommenders for social media platforms and open web content recommenders.  Two Types of Recommenders are generally used in production: Collaborative Filtering Systems leverage the behavior and interests of other people (in this case, other movie veiwers) to inform what you might enjoy.  Content-Based Filtering Systems are based on a description of an items and the preferences of users.  
+
+**Movie Predictions:** I used a movide data set 
