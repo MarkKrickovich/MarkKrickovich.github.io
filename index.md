@@ -17,9 +17,10 @@ Machine-learning project using association rule mining to find associative patte
 <center><img src="assets/img/R Apriori Graph Plot.PNG"/></center>
 
 ---
-## Recommender System: Film Predictions
+## Recommender System: Film Predictions using Sentiment Analysis
 ###  Content-Based & Collaborative-Based Filtering using Python and surpriselib
 
-Recommender Systems are used to predict items that a user will select among many choices. Recommender systems are used in a variety of areas, with commonly recognised examples taking the form of playlist generators for video and music services, product recommenders for online stores, or content recommenders for social media platforms and open web content recommenders.  Two Types of Recommenders are generally used in production: Collaborative Filtering Systems leverage the behavior and interests of other people (in this case, other movie veiwers) to inform what you might enjoy.  Content-Based Filtering Systems are based on a description of an items and the preferences of users.  
+Recommender Systems are used to predict items that a user will select among many choices. Recommender systems are used in a variety of areas, with commonly recognised examples taking the form of playlist generators for video and music services, product recommenders for online stores, or content recommenders for social media platforms and open web content recommenders.  
 
+**The Magic:** I am using an Artificial Neural Network, which will be trained how to "read" movie reviews and guess whether the author liked the movie or not from them.
 **Movie Predictions:** I used a movide data set 
