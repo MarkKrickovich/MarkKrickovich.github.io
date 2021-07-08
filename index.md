@@ -21,7 +21,7 @@ Machine-learning project using association rule mining to find associative patte
 
 Recommender Systems are used to predict items that a user will select among many choices. Recommender systems are used in a variety of areas, with commonly recognised examples taking the form of playlist generators for video and music services, product recommenders for online stores, or content recommenders for social media platforms and open web content recommenders.  
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/markkrickovich/AssociationRuleMining)  "A Work in Process"
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/markkrickovich/Recurrent-Neural-Network)  "A Work in Process"
 
 **Movie Predictions:** I used a movide data set from IMDB, which is an embedded Keras dataset.  I trained an RNN to classify if a written movie review was positive or negative. 
 
