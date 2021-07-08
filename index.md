@@ -27,6 +27,6 @@ Recommender Systems are used to predict items that a user will select among many
 
 **Recurrent Nueral Networks:** RNN's are very powerful tools for wide variety of problems.  As it turns out, **Deep Learning** is especially suitable to predicting sequences of events, like which videos you're likely to watch next.  So this has applications and recommender systems that deal with situations where the order of events matters.
 
-
+<center><img src="assets/img/R Apriori Graph Plot.PNG"/></center>
 
 
