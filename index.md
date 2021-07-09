@@ -18,6 +18,10 @@ Machine-learning project using association rule mining to find associative patte
 
 ---
 ## Sentiment Analysis of Film Reviews [Recurrent Neural Network using Python, TensorFlow & Keras]
+ <p float="left">
+  <img src="assets/img/Tflow.png" width="200" />
+  <img src="assets/img/keras.png" width="125" /> 
+ </p>
 
 Recommender Systems are used to predict items that a user will select among many choices. Recommender systems are used in a variety of areas, with commonly recognised examples taking the form of playlist generators for video and music services, product recommenders for online stores, or content recommenders for social media platforms and open web content recommenders.  
 
@@ -30,4 +34,4 @@ Recommender Systems are used to predict items that a user will select among many
 **Recurrent Nueral Networks:** RNN's are very powerful tools for wide variety of problems, used for sequences of data, including languages (which are sequences of words).  As it turns out, **Deep Learning** is especially suitable to predicting sequences of events, like which videos you're likely to watch next.  So this has applications and recommender systems that deal with situations where the order of events matters.
 
 <center><img src="assets/img/RNN.png"></center>
-<center><img src="Recurrent-Neural-Network/Images/TFlow.png ></center>
+
