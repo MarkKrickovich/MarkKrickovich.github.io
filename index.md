@@ -34,6 +34,7 @@ Recommender Systems are used to predict items that a user will select among many
 
 <center><img src="assets/img/RNN.png"></center>
 
+---
 ## TensorFlow Predicts Congressional Party Affiliation [Binary Classification Problem, TensorFlow & Keras]
 <p float="left">
   <img src="assets/img/TFlow.png" width="175" />
@@ -47,3 +48,5 @@ I completed a machine-learning project to predict the political party of US Cong
 
 **Results:** My experimentation with Keras settings improved the model’s accuracy from 94% to 95%.  
  
+
+---
