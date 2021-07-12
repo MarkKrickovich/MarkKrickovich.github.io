@@ -40,8 +40,7 @@ Recommender Systems are used to predict items that a user will select among many
   <img src="assets/img/TFlow.png" width="175" />
   <img src="assets/img/keras.png" width="100" /> 
  </p>
-I completed a machine-learning project to predict the political party of US Congress-members based on their voting record on 17-issues in the year 1984.  Using the TensorFlow library and the keras API, we can predict the political party of a US congress-member with 95% accuracy.  The project was kept small (232, 17) to limit computing expense; larger data sets would require the use of GPU’s and distributed training.
-
+I completed a machine-learning project to predict the political party of US Congress-members based on their voting record on 17-issues in the year 1984.  Using the TensorFlow library and the keras API, we can predict the political party of a US congress-member with 95% accuracy.  The project was kept small (232, 17) to limit computing expense; larger data sets would require the use of GPU’s and distributed training.  
 
 **TensorFlow:** TensorFlow is an open-source library for machine learning, specifically focused on training and inference of deep neural networks.  Keras is an API built on top of Tensor Flow 2.0.  Keras minimizes the number of user-actions required for use cases and enables fast experimentation. 
 
