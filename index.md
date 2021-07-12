@@ -14,7 +14,7 @@ Machine-learning project using association rule mining to find associative patte
 
 **Association Rule Mining:** A Data Mining technique that finds patterns in data. The patterns found by Association Rule Mining represent relationships between items. When this is used with sales data, it is referred to as **Market Basket Analysis**.
 
-<center><img src="assets/img/R Apriori Graph Plot.PNG"/></center>
+<center><img src="assets/img/R Apriori Graph Plot.PNG" width="250"/></center>
 
 ---
 ## Sentiment Analysis of Film Reviews [Recurrent Neural Network using Python, TensorFlow & Keras]
