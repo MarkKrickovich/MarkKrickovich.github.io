@@ -1,7 +1,10 @@
 # Portfolio: Data Science 
 ---
 ## Market Basket Association Prediction [Apriori Algorithm using R and WEKA]
-
+<p float="left">
+  <img src="assets/img/Weka.png" width="55" />
+  <img src="assets/img/R.png" width="70" /> 
+ </p>
 Machine-learning project using association rule mining to find associative patterns from market-basket data.  The Apriori algorithm was chosen.  By learning buying patterns, companies can improve catalogue content, effectively complete store layout, and find fraud in various transactions (credit-card, network-intrusion). This project used a grocery data set.
 
 **Outcome (Image Below):** The result indicates that “other vegetable” items purchased by a customer will lead to (more than other purchased items) the purchase of the item “whole milk”.  
